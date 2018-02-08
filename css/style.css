@@ -41,6 +41,8 @@ header {
 	margin-top: 20px;
 }
 .header-btn {
+	display: block;
+	text-decoration: none;
 	margin-top: 33px;
     border-radius: 35px;
     background-color: #ffffff;
@@ -167,6 +169,7 @@ margin-bottom: 7px;
 }
 
 .footer-btn {
+	text-decoration: none;
 	display: inline-block;
 	padding: 12px 40px;
     border-radius: 24px;
